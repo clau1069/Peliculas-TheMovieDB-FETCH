@@ -1,0 +1,6 @@
+Conectarme a una API utilizando JavaScript
+
+Creamos una pagina de peliculas populares utilizando la API de TheMovieDB.
+Usamos JS, con async await, fetch, etc.
+
+Las pelicalas se organizan en paginaciones
